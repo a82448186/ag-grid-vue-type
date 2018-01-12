@@ -1,14 +1,14 @@
 {
-  "name": "ag-grid-vue",
-  "description": "ag-Grid Vue Component",
+  "name": "ag-grid-vue-type",
+  "description": "ag-Grid-vue width types",
   "version": "13.3.0",
-  "author": "Sean Landsman <sean@thelandsmans.com>",
+  "author": "glb",
   "license": "MIT",
   "main": "main.js",
   "bugs": {
-    "url": "https://github.com/ag-grid/ag-grid-vue/issues"
+    "url": "https://github.com/a82448186/ag-grid-vue-type/issues"
   },
-  "homepage": "https://github.com/ag-grid/ag-grid-vue#readme",
+  "homepage": "https://github.com/a82448186/ag-grid-vue-type/blob/master/README.md",
   "scripts": {
     "build": "gulp"
   },
@@ -35,6 +35,4 @@
     "run-sequence": "^1.2.2",
     "webpack": "^2.2.1"
   },
-  "_from": "ag-grid-vue@13.3.0",
-  "_resolved": "http://registry.npm.taobao.org/ag-grid-vue/download/ag-grid-vue-13.3.0.tgz"
 }
