@@ -1,7 +1,7 @@
 {
   "name": "ag-grid-vue-type",
   "description": "ag-Grid-vue width types",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "author": "glb",
   "license": "MIT",
   "main": "main.js",
