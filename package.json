@@ -5,6 +5,7 @@
   "author": "glb",
   "license": "MIT",
   "main": "main.js",
+  "types": "main.d.ts",
   "bugs": {
     "url": "https://github.com/a82448186/ag-grid-vue-type/issues"
   },
