@@ -6,11 +6,11 @@ ag-Grid-vue支持typescript
 
 #### Install with Bower
 ```sh
-$ bower install ag-grid-vue
+npm install ag-grid-vue-type
 ```
 
 #### Install with npm
 ```sh
-$ npm install ag-grid-vue
+import {AgGridVue} from 'ag-grid-vue-type
 ```
 
