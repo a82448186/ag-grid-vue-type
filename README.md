@@ -1,7 +1,8 @@
 ag-Grid-vue支持typescript 
 ==============
 
-This project contains the Vue Component for use with ag-Grid
+在原ag-grid-vue组件中填加了类型文件以支持在typescript中使用ag-grid-vue
+原ag-grid-vue github地址:https://github.com/ag-grid/ag-grid-vue
 
 #### Install with Bower
 ```sh
